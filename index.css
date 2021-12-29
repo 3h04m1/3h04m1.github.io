@@ -189,7 +189,13 @@ body {
 
 .project img {
     border-radius: 5px 5px 0px 0px;
+    width:100%;
 }
+.project:hover {
+  width: 52vh;
+  transition: all 0.5s ease-out;
+}
+
 
 .project pre {
     font-size:20px;
@@ -201,7 +207,7 @@ body {
 }
 .project span{
     color:transparent;
-}
+    
 .project:hover span{
     color:rgb(4, 199, 4);
     transition:color 0.3s ease-out;
