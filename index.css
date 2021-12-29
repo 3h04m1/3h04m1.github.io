@@ -207,6 +207,7 @@ body {
 }
 .project span{
     color:transparent;
+}
     
 .project:hover span{
     color:rgb(4, 199, 4);
