@@ -180,7 +180,7 @@ body {
     flex-wrap: wrap;
     border-radius: 5px;
     padding: 20px;
-    width: calc(100vh / 2);
+    width: 50vh;
     height:auto;
     justify-content: center;
 
