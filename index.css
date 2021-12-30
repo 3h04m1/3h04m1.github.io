@@ -190,6 +190,7 @@ body {
 .project img {
     border-radius: 5px 5px 0px 0px;
     width:100%;
+    max-width: 52vh;
 }
 .project:hover {
   width: 52vh;
@@ -197,10 +198,11 @@ body {
 }
 
 
-.project pre {
+.project p {
     font-size:20px;
     text-align: center;
     width: 100%;
+    max-width: 52vh;
     background-color:#303841 ;
     border-radius: 0px 0px 5px 5px;
     
