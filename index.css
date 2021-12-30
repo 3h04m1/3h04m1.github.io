@@ -203,15 +203,14 @@ body {
     text-align: center;
     width: 100%;
     max-width: 52vh;
-    background-color:#303841 ;
+    background-color: #303841;
     border-radius: 0px 0px 5px 5px;
-    
 }
-.project span{
+.project span {
     color:transparent;
 }
     
-.project:hover span{
+.project:hover span {
     color:rgb(4, 199, 4);
     transition:color 0.3s ease-out;
 }
